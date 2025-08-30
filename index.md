@@ -1,3 +1,4 @@
+# Srivathsa's First CS193 Homework!
 ## Welcome to The Life of Srivathsa Raj!
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -25,6 +26,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+- I always enjoy being around Jag and Pranavi's positive energy they bring to class! 
+- CS193 helps me supplement my ability to utilize software applications to enhance my coding experience!
+- The luxury of having no final exam puts students at ease and allows us to truly explore CS without much pressure! 
 
 For more details see [GitHub Flavored Markdown][(https://guides.github.com/features/mastering-markdown](https://www.linkedin.com/in/srivathsa-raj-838b89273/).
 
